@@ -177,7 +177,7 @@ export default function Home() {
 <footer className="footer">
   <div className="footer-content">
     <div className="footer-section company-info">
-      <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b3a4-622f-bf6c-9d8dae4b2e5d/raw?se=2025-05-15T17%3A44%3A17Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-15T13%3A39%3A03Z&ske=2025-05-16T13%3A39%3A03Z&sks=b&skv=2024-08-04&sig=bpBq3kmH5bLVkbDS2xS%2B0KZbkz7ZfspwUHTy5wXNPv8%3D" alt="Alchemo Industries" className="logo" />
+      <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b3a4-622f-bf6c-9d8dae4b2e5d/raw?se=2025-05-15T17%3A44%3A17Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-15T13%3A39%3A03Z&ske=2025-05-16T13%3A39%3A03Z&sks=b&skv=2024-08-04&sig=bpBq3kmH5bLVkbDS2xS%2B0KZbkz7ZfspwUHTy5wXNPv8%3D" alt="ChemSafe Industries" className="logo" />
       <p>chemsafe.industries@gmail.com</p>
       <p>+91 9999999999</p>
     </div>
